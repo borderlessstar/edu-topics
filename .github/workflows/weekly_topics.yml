@@ -29,4 +29,5 @@ jobs:
           git config user.email "github-actions@github.com"
           git add ideas.csv weekly.md
           git diff --staged --quiet || git commit -m "Add weekly education topics"
+          git pull --rebase
           git push
