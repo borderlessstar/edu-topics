@@ -18,11 +18,16 @@ from datetime import datetime, timezone, timedelta
 # ============================================================
 # 集めてくる情報源（RSS）。行を足せば情報源を増やせます。
 FEEDS = [
-    "https://b.hatena.ne.jp/hotentry/knowledge.rss",   # はてブ「学び」人気エントリー
-    "https://b.hatena.ne.jp/hotentry/life.rss",         # はてブ「暮らし」人気エントリー
+    "https://b.hatena.ne.jp/hotentry/social.rss",   # はてブ「世の中」（社会・教育問題）
+    "https://b.hatena.ne.jp/hotentry/life.rss",      # はてブ「暮らし」（子育て・人間関係）
+    "https://b.hatena.ne.jp/q/教育?target=text&sort=recent&mode=rss",   # 「教育」を含む新着
+    "https://b.hatena.ne.jp/q/不登校?target=text&sort=recent&mode=rss", # 「不登校」を含む新着
+    "https://b.hatena.ne.jp/q/教員?target=text&sort=recent&mode=rss",   # 「教員」を含む新着
 ]
+
 # このどれかの言葉がタイトルか説明に入っている記事だけ拾う（[] にすると全部拾う）
-KEYWORDS = ["教育", "学習", "学び", "子ども", "勉強", "メンタル", "発達", "不登校", "心理", "親子"]
+KEYWORDS = ["教員", "先生", "教師", "学校", "教育現場", "担任", "不登校", "子育て",
+            "発達", "保護者", "親子", "いじめ", "学級", "教育委員会", "ブラック"]
 MAX_PER_WEEK = 15   # 1回で残す最大件数
 # ============================================================
 
