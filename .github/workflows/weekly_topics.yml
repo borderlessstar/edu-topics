@@ -28,6 +28,10 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add ideas.csv weekly.md
-          git diff --staged --quiet || git commit -m "Add weekly education topics"
-          git pull --rebase
-          git push
+          if git diff --staged --quiet; then
+            echo "変更がないので、コミットもプッシュもしません"
+            exit 0
+          fi
+          git commit -m "Add weekly education topics"
+          git pull --rebase origin main
+          git push origin HEAD:main
