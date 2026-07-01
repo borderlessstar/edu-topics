@@ -28,6 +28,13 @@ FEEDS = [
 # このどれかの言葉がタイトルか説明に入っている記事だけ拾う（[] にすると全部拾う）
 KEYWORDS = ["教員", "先生", "教師", "学校", "教育現場", "担任", "不登校", "子育て",
             "発達", "保護者", "親子", "いじめ", "学級", "教育委員会", "ブラック"]
+
+# ★このドメイン（サイト）から来た記事は除外する（風刺・パロディサイトなど）
+#   増やしたいときは "サイトのドメイン",  を1行足すだけ。# のあとはメモなので自由に書けます。
+BLOCK_DOMAINS = [
+    "kyoko-np.net",   # 虚構新聞（風刺・パロディ。ニュースではないので除外）
+]
+
 MAX_PER_WEEK = 15   # 1回で残す最大件数
 # ============================================================
 
@@ -80,6 +87,11 @@ def matches(title, desc):
     return any(k in text for k in KEYWORDS)
 
 
+def is_blocked(link):
+    """除外ドメインのサイトから来たURLなら True を返す"""
+    return any(domain in link for domain in BLOCK_DOMAINS)
+
+
 def load_existing_urls():
     """すでに集めた記事URL（重複を避けるため）"""
     if not os.path.exists(CSV_FILE):
@@ -98,7 +110,7 @@ def main():
     new_items = []
     for url in FEEDS:
         for title, link, desc in fetch_feed(url):
-            if link in seen or not matches(title, desc):
+            if link in seen or is_blocked(link) or not matches(title, desc):
                 continue
             seen.add(link)
             new_items.append((title, link, clean(desc)))
