@@ -2,8 +2,12 @@ name: weekly-education-topics
 
 on:
   schedule:
-    - cron: "0 21 * * 0"   # 毎週月曜 6:00 JST（日曜 21:00 UTC）に自動実行
+    - cron: "17 19 * * 0"   # 毎週月曜 4:17 JST（日曜 19:17 UTC）に自動実行
+                            # ※月曜7:47のClaudeのまとめより前に終わらせるため早めに設定
   workflow_dispatch:        # 手動でも「Run workflow」ボタンで実行できる
+  push:                     # スクリプトを書き換えたら、その場で1回試し実行する
+    branches: [main]
+    paths: ["collect_topics.py"]
 
 permissions:
   contents: write
