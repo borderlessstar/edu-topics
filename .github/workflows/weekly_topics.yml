@@ -2,8 +2,9 @@ name: weekly-education-topics
 
 on:
   schedule:
-    - cron: "17 19 * * 0"   # 毎週月曜 4:17 JST（日曜 19:17 UTC）に自動実行
-                            # ※月曜7:47のClaudeのまとめより前に終わらせるため早めに設定
+    - cron: "17 11 * * 0"   # 毎週日曜 20:17 JST（日曜 11:17 UTC）に自動実行
+                            # ※GitHubの定期実行は数時間遅れることがある（2026-09-28は約3時間遅れ）。
+                            #   月曜7:47のClaudeのまとめまで半日の余裕を取るため、前日の夜に実行する
   workflow_dispatch:        # 手動でも「Run workflow」ボタンで実行できる
   push:                     # スクリプトを書き換えたら、その場で1回試し実行する
     branches: [main]
