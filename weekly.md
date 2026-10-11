@@ -1,103 +1,103 @@
-# 今週の教育ニュース候補（2026-10-05 更新）
+# 今週の教育ニュース候補（2026-10-12 更新）
 
 信頼できる媒体（全国紙・NHK・通信社・教育専門紙・官公庁）の直近1週間の記事 25 件。
 
-## 1. 娘が不登校に、名付けた「ユニパスさん」 支援続ける小児科医が著書 [香川県] - 朝日新聞
-媒体：朝日新聞　公開日：2026-10-02
-https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sQXFBSkljb2RaM214VXpUZGFmYTNlaC1KQU1FVWFhQ0l0X1JlZmYwYVgtYXZuYnZ6cV9BWXNoU2kzOU9aWkpTRGZmdU9pbzhVcmNGeFR5YVRGRnhJUWZTaVJfdUlZYVk?oc=5
+## 1. 不登校の子アバターで交流 メタバースで安心の居場所を、広がる支援 [栃木県] - 朝日新聞
+媒体：朝日新聞　公開日：2026-10-10
+https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85eFFjSU1feFpaZW00ZHZqMXZ0a2xTWTVybTloTHBLR2tPTG0yeGNnV3V3RmNnMm9IUWY3QlRTLW0ycU9mQlR5SGFfU3J2ZEw3T0pPLU9kNlN0WUZNYW9QelRLV1ppZmc?oc=5
 
-## 2. 発達障害の不登校率13.26％、全児童生徒の約3.6倍…文科省調査 - reseed.resemom.jp
-媒体：リセマム　公開日：2026-09-28
-https://news.google.com/rss/articles/CBMihgFBVV95cUxPRlJSOVNjZ0xqdUZjQlQzNDJoTWFrQnM3Zjh2VlBOVEVSQXJjYUJsUWhiZWdrd1Boekx2cWJ0QjVBTlhSOHZkaHZjT1ZDYVdnS25QMlNDYnFNbllJM2R5LTVXZXRlXy1MbUpBc2FSUFFzbjZZeVlVckJSOFdfQUlfaHAyNndTUQ?oc=5
+## 2. 不登校の長女にご褒美と脅し 「行かせるべき」に縛られかけてしまった言葉 （3ページ目） - 日本経済新聞
+媒体：日本経済新聞　公開日：2026-10-08
+https://news.google.com/rss/articles/CBMimgFBVV95cUxNTV9ja0FXTjNyeTFSU3VMMHRaUE8tZ0JHMzZ5NDgwa1RZQkgwcWl2SDhqUlJiZzFtazJTdzBCdHNNcWZEYkwwejh6VlFkVHNUcy1qczF2SkJ1dDBzbFYyWkh0aG1aWHExZ0RtVngtU2tDeGVVMmZRSnNDSS1uQ0twZGxtcDR3bmhIT2h5RzllZ2dyLXJmOHF4bHBR?oc=5
 
-## 3. 増える不登校の子供が学ぶ「多様化学校」開校半年 見えてきた課題と成果の普通校への還元 - 産経ニュース
-媒体：産経新聞　公開日：2026-10-01
-https://news.google.com/rss/articles/CBMidkFVX3lxTE9oNVhFdHYwZ0gtaWRma3JvRWdhSm5QZExMczk0TnVha3dzd1RKTEZ5YjBrWHJzbDJSYlJlT3d4SmtKM01RQlAwSEtOWmg2dWIzRWFpWWM2bjFaTERXcG14NHJjYWVad0MydWVMWXVYZTUzRjUzWXc?oc=5
+## 3. 不登校・通信制高校から考える進学・就職セミナー10/14 - リセマム
+媒体：リセマム　公開日：2026-10-09
+https://news.google.com/rss/articles/CBMiXEFVX3lxTFBfcjIwYXlQV1JOREEwdVRfMUt2TEJDQTJYR3RJa19SaGM2b2dyQlZjcm83dmJpZm4tWWdZRXdLb09iQzBrcThpdXFKU005MVFIclJFTUdaVzF0YnE1?oc=5
 
-## 4. 【参加無料】本気で考える不登校－教職員が今、気づいてやるべきことはコレだ！ - 朝日新聞
-媒体：朝日新聞　公開日：2026-09-29
-https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jWnJja2dUT19mdV9zVzFvVGJ3SDlIWFA5aDBIZENrRVZ5Q2NDeExpbk4tdTMtWUV6YXJJM1hOMHhOSDRGVi1KWjl3ZzJDWlhtMFVrajVWMTkxcFNCOTN2QzdlRXM?oc=5
+## 4. 小1の不登校が10年で7倍、園とのギャップをどう減らす？ 「遊びを学びにつなげる授業」で不登校が減ったある小学校の取り組み - AERA DIGITAL
+媒体：朝日新聞　公開日：2026-10-05
+https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wbC1FNFNmd0VkLVNPNVlpV2ZmY1AtVnY3WnVtRW9INWZCMUlkVkRzXzZ4VVZpRDVaMFhRZ2tadkt4TDVuUWVvWGY1V1JIdFJaam00eFQ1TG55UQ?oc=5
 
-## 5. 発達障害児支援、子どもだけを変えないで 学校の仕組み、見直し訴え - 教育新聞
-媒体：教育新聞　公開日：2026-10-02
-https://news.google.com/rss/articles/CBMiVkFVX3lxTE1DdzJDRTc2bC01R0RNVU5SM3pnT3BobzhWLXUtM3dSOXhLSkFEbndmQzR5Y3lxSzJ2SXlkdnpEZ1lKaUJHTERLMTR4cFdLYXVkMDVoZ1V3?oc=5
+## 5. 『発達障害に生まれて――自閉症児と母の１７年』 松永正訓著 - 読売新聞
+媒体：読売新聞　公開日：2026-10-07
+https://news.google.com/rss/articles/CBMijgFBVV95cUxOMHRmcWVWaDFWZGFqRmR1VGVzM1o3UnVaLVJUVDFNdWprMFY1MUJwUWNuMXhHbm1INW9UR1hWS0hTRjVLa0pTUGsyZjI0UWNyRW0zbzYzNUVua19jSzI1dk5YemFUZUo2RGpIdVMxbG1BdmhkM1JNb1RGTE5uWVlfV1dZMHp4RmZyTF9SNkln?oc=5
 
-## 6. アンコンシャス・バイアスとの向き合い方（下）～子どもの可能性を狭める「どうせ無理」を脱するには？ - 朝日新聞
-媒体：朝日新聞　公開日：2026-09-28
-https://news.google.com/rss/articles/CBMiVkFVX3lxTE83cTB3dnJuYXlEbDBsN0ZZVmc3Vm5tYVJBNFY3enU0Mng5U1l6ZUhZdVhCWlBpM1NncTNmRmdYTU5Fa2dQdUZ0UUJ5eG1aYzFKSFctVTV3?oc=5
+## 6. 障害のある子どもが通常学級で学ぶには 学校にできることは？ 保護者との関係は？ - 朝日新聞
+媒体：朝日新聞　公開日：2026-10-10
+https://news.google.com/rss/articles/CBMiZEFVX3lxTE4zel9NX0h0M1hnbFdBSUF1a18zWWZjQkhXS3YwSWZZUFFTcmN5ZHllWXRIaDRjdEJWaUdqRHFIWW9TTVIwaXY3bHpTZVRKdUZkRFpzQi1hc2o2Vkd6NDVIT0YzRjk?oc=5
 
-## 7. 「あの子だけずるい」がない学校 特別支援を教員が本音で語る - 教育新聞
-媒体：教育新聞　公開日：2026-09-28
-https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kQmIzM1JCQmVRc3FMajA3YUdnLUhST1Z1eU9xeWxZZ3p4aGFvck50UHpRd3E4Yl9PLTZiTWJlbEtqbXVVZlVPYzNFMkdRQUdsUHRYdTZn?oc=5
+## 7. 〈運動会シーズン〉「運動会や学芸会が大きなストレスになることも」 児童精神科医が伝えたい、発達特性の強い子への対応とは - AERA DIGITAL
+媒体：朝日新聞　公開日：2026-10-08
+https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zWDlydU1nUlR3YUpnNTNLNkVycG5rdHIxVlJ5Vm5oVTRrbFNnYTh3RTZ0V3BKaFBmTkpQSWZFaXdOS0F0SEJDM2JXUTJ4akx2RzZ4OUlaX3JMaWV4?oc=5
 
-## 8. 知的障がいのある子が「18歳で学校教育を終えて社会に出るのは酷」 東京学芸大学・奥住秀之教授が語る「青年期の学び」の意義 - AERA DIGITAL
-媒体：朝日新聞　公開日：2026-09-30
-https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Ta1A4WUFfU0VpZzRHaFJ4YzIwMDhPS2k4TVdSSWwzYjl5WmxPRXZZUXlYbWVjemVMN0NoaV9qSW84LTJLTk1RcTVCTjVuUlV1RzJSdDUtZWFxdw?oc=5
+## 8. 「これが野球だと思わせていいのか」 障害者野球監督が変わった理由 [福岡県] - 朝日新聞
+媒体：朝日新聞　公開日：2026-10-10
+https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93d2J1UDV1TTZPVEEweGJpcERWa2NiM3VqWFJXOE5lbXVXRTVjMzNNZXo0RVBMSV9QWDl4ZzIxYWtZelhyTmlmM3JaNFBxekRlLTBGU29mVkhRbjNoZlJNZENNSWpqN0U?oc=5
 
-## 9. 東京都立特別支援学校「病弱教育支援員」募集…11/24締切 - reseed.resemom.jp
-媒体：リセマム　公開日：2026-10-01
-https://news.google.com/rss/articles/CBMiZkFVX3lxTE1QZms3eTM1czhOUElLdkVOZ3gtV0xES0NnU3EzMnMteWh2Z0c3YktZRmJQNkRHYXBTR3dYME9rV3hWVzNCa2tvTnYwQjQ4SHFVRTlibjZYSFVrUUFGVjA4bnd2WVNTUQ?oc=5
+## 9. 海外でも難しい特別支援教育 坂野真理氏 - 日本経済新聞
+媒体：日本経済新聞　公開日：2026-10-09
+https://news.google.com/rss/articles/CBMibEFVX3lxTFBhQTFDN2VrQlJlSHBVZU1OZXBWMk1mOUxQN2RQT3lzYmN6dzl2UFYzeExLUGNQOHowS0tlcjY2bUI5NTFOMWJ1RGFoa01uV1lQYjFUblBWalJPLTV6SHJqREJIMHJqeEtVRWkzUg?oc=5
 
-## 10. 東京都立特別支援学校「病弱教育支援員」募集…11/24締切 1枚目の写真・画像 - reseed.resemom.jp
-媒体：リセマム　公開日：2026-10-01
-https://news.google.com/rss/articles/CBMic0FVX3lxTFBzdno4dHBKWWdrX3lVVXhLWXhGNi11RDZmWEpuN3ZpamhyZDR4SDBwM0M2NkNuTzd3QmRBNW9TdGk0SXp6U0sya0hWdGp1cThuS1pXcXRCUlczMWxTYWJucl9fZXh0dFhzOXNZQjh1VklHeEk?oc=5
+## 10. 北海道立高校・特別支援学校の臨時教員33人募集…Web受付も - リセマム
+媒体：リセマム　公開日：2026-10-09
+https://news.google.com/rss/articles/CBMiZkFVX3lxTE5obkRNbktucUhiR19Hblo2T2R5SUR0ODk3S2h3MGVWT09uUHdEWTFuaHVPdU5RWXVCWDNjOWF6Q2RpZ0RpU0VMSlFOU1M4bGVtY1dvT3Z4Nm5aeTJlT0MzZTM0ODgyQQ?oc=5
 
-## 11. 〈先月読まれた記事〉元人気子役・細山貴嶺さんが語る“転校3回”の子ども時代 テレビでは人気者、学校ではいじめの標的だった - AERA DIGITAL
-媒体：朝日新聞　公開日：2026-10-03
-https://news.google.com/rss/articles/CBMiZkFVX3lxTE1KOHpQcWVNb1V5OE5FMmlQLXV3eG5XMGREdXVJTGR0Qmk4QUV5WjlqMnVENVYxRkxNZ3J6dnlmR1NhbEpvblY2bnRPY29yamRhUXVyVUY2d1pzaEoxX0pBRDg1SGhWUQ?oc=5
+## 11. 次期学習指導要領の審議まとめ 関係団体にヒアリング開始 - 教育新聞
+媒体：教育新聞　公開日：2026-10-08
+https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YRjFSQjFveXVvMkcwOTIwMXZSdjMtOEdBc01pTVlQQWtPZTVNOW5rSnVSZGpjQ0FweExaNDZoRkx2T0JvZjc0cFFyM194UG0zUVdQcWRR?oc=5
 
-## 12. 高崎市の小学校早朝開門、県教育長が「遺憾」 教員らの出勤対応巡り [群馬県] - 朝日新聞
-媒体：朝日新聞　公開日：2026-09-30
-https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QMlVYMDBIVTZ3X2pMcDgwTkFadVZqT0cwSDRTZHhBLXQzSFJ2SUwyeEZxYjQydlpmRm5ENkV4N2taX2JsVzFjUTczb1hGSFhvRlhXVlpZWXJWOFBmckJacUNSWmxmVEk?oc=5
+## 12. 【立正大学社会福祉学部】社会福祉学科が2027年度よりコース制を改変〜「ソーシャルワーク」「特別支援教育」「社会デザイン」の3コースへ再編、目指すキャリアと学びを明確化 - 北海道新聞デジタル
+媒体：北海道新聞　公開日：2026-10-05
+https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeUVleWhKUTVEMXoxQVByWDZGSzV4bHpBZlZHczBIaWNPdlBqVmxJV0JZVXZtMjg2Qm1GUlVZcElfY0g3cklocGU1dnIxRnRscW12V29MXzBtSjl5dzAyMlQ1aHBIY3RKUnlkZGJPUzhpRWhkZUlZejMwMTNqcmxydmlhNnVXVUhG?oc=5
 
-## 13. 【教員採用】新潟県、473人合格…大3選考は36人合格 - reseed.resemom.jp
-媒体：リセマム　公開日：2026-09-30
-https://news.google.com/rss/articles/CBMiZkFVX3lxTE1IUEJBM0pSQkZUcDU5VG5wY09nTFNLS2o3UUZvd2ZlQ2FPNWpPMFc4T0dsUFRjRWZwckFPNmpvQWR5WElaeVNla09wckJ5WDl3WElUczlMeVJZV1BpYjdnXzNZOGhaQQ?oc=5
+## 13. 鴻巣市立中 暴力で生徒が脳振とう、いじめ重大事態に 防犯カメラに録画 - 東京新聞
+媒体：東京新聞　公開日：2026-10-07
+https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wbVowVUNtaGxBeHRnbUF5RUE5Skc0a1htZnpQeWc5U3dLZUo3dmhjTVNtYW9pc2ZiOThJUF9GaktjSnVmY0NrMGd4elpHNi1LeGtR?oc=5
 
-## 14. 【教員採用】新潟県「秋選考」小中高の教諭など追加募集 - reseed.resemom.jp
-媒体：リセマム　公開日：2026-10-01
-https://news.google.com/rss/articles/CBMiZkFVX3lxTE9RUGJPX0ZIMjFIdUtKLURLZVY1a2EyV1ZUT0UydmcwWHN2Z1pYb19jb0FkRDJLZkpFeUl3UExkUzlvek95OExOZWl1dGFOVWhTXzA4SkJ2T0RESVdET0I3VVBjSUNzUQ?oc=5
+## 14. 京都府教委が公立学校のいじめ調査 “重大事態”が5件 - NHKニュース
+媒体：NHK　公開日：2026-10-06
+https://news.google.com/rss/articles/CBMiX0FVX3lxTE00bFU4eXNJUkh0UldWZ1kzY2M4TlRZRUpwTDFUUkV5S20tNkh1T2F2OHNKZGJOeHJibFMzQzFIYmFKdmZjMUlRYl9Zc2FBMEp6NHNQajZmMGFDZ3IyWE84?oc=5
 
-## 15. 【教員採用】宮城県、大学推薦による大3生特別選考12/12 - reseed.resemom.jp
-媒体：リセマム　公開日：2026-09-29
-https://news.google.com/rss/articles/CBMiZkFVX3lxTFBnRWRPdjRTRUxEeE53T2ZDa1YtbjZjUVE0eUU1V0U0WlI2MUEzMENadktyQ3JFSTRfbXdXNE9JZlg1VG1MY2VEbERSSnFmVzVwYWMzQmxIT0JYX0dDN0YwT25rc2ZxUQ?oc=5
+## 15. 大津いじめ自殺15年、父親「いじめ防止法改正を」 学校現場に浸透せず「泣き寝入りも多いのでは」 - 京都新聞デジタル
+媒体：京都新聞　公開日：2026-10-11
+https://news.google.com/rss/articles/CBMiWEFVX3lxTE52aXZTNEI2cElXWUpCeDNSM3F5TGNHSmhud1VFbVV4Z0JOYnlPQzgzU0hBMW5QT3lsd2xJRTFzdHYta0dSbGxpVFBoZk42VThnQlVjUVJJN0k?oc=5
 
-## 16. 困難な保護者対応から教員守る 大阪市教委が弁護士ら専門職チーム - 教育新聞
-媒体：教育新聞　公開日：2026-09-29
-https://news.google.com/rss/articles/CBMiVkFVX3lxTE1sLTdJb3pNOUdPbnIzVXhkd2tkM2Z4dzFzRmkxTzB0eVNYQ0Rna0t4Nzl3VWFpZWVoZG5MdmRHX0lxVU1SeWxBZUZqa0tfT1owSHFkRlFn?oc=5
+## 16. 中2いじめ自殺15年 「生まれ変わりの法律」生かされているか - 毎日新聞
+媒体：毎日新聞　公開日：2026-10-11
+https://news.google.com/rss/articles/CBMiaEFVX3lxTE5rempYcHlYOHAtQk85SENOY1ZWZk1oc1UtZnlNS0ZNSlk1TWxhVUY2VWw1MEdNTGU0R3ZLWkdJOXBLa0duNjNFVmp4YmJGazZyT2dpVEtXRWdvTk9WcVZFQ3VJUjNHUS0t?oc=5
 
-## 17. 「自分に合った中学受験がみつかる！」特別オンライン講座（10月17日（土）15時～） - 朝日新聞
-媒体：朝日新聞　公開日：2026-09-28
-https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KSHFxcXI0SlNDTjgySXAwRUEzY1gwXzdsVEZXaUVCeDR4OGdCYmJzX1Q3UFNsYzFJRUlCVWVzSDR5Q01zdjJqbms3MjBNdEs2WWQ5T1NtWGlLdw?oc=5
+## 17. 女子中学生のわいせつな動画所持の疑いで小学校教諭ら４人を書類送検、ＳＮＳで情報交換か…警視庁 - 読売新聞
+媒体：読売新聞　公開日：2026-10-09
+https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ycDM3OWNZc2xwYTc3cm1vZDUtS0NDZU5ZQWZGNUpJU3QtM29Xb2x2cEhhN3l0b25ORnE3S1YtbFV5NzdmWDlOYnkxbjJhb0NaQmgzeHBtS0hZZzVRNEFhTktyN245dw?oc=5
 
-## 18. あしなが「中学校進学支援金」新設、5万円を400人に給付…小6対象 - リセマム
-媒体：リセマム　公開日：2026-09-30
-https://news.google.com/rss/articles/CBMiXEFVX3lxTE94MzhhY1puYmh3Mm5McERNeGZnamV3WThNc1E5LWVnZGRYelNnVWFwSXMxbG5rYURWX3VzRmFBM25qVFVaOVlHQ1c1LVZqMGhSMzI5bE01cmI4Snhh?oc=5
+## 18. 中学生のポルノ動画所持容疑、教諭ら4人書類送検 SNSで情報交換 - 朝日新聞
+媒体：朝日新聞　公開日：2026-10-09
+https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBKb2k0RDlhTWNocUJ3R3lqYUxNMHB6VmRLOVhhVjJySllGVUpZTmJUaW00MUpkQWJhd1VhVi1Ea1JGZTJ5eE1WLUVJdDR2cENsRjg0ZW4tNk5zUmFjWlhSZWlNbS1EeXM?oc=5
 
-## 19. 渋谷教育学園渋谷中、第１回 学校説明会（小学校４年生以上 受験生・保護者対象）【追加】申し込みについて - 朝日新聞
-媒体：朝日新聞　公開日：2026-10-01
-https://news.google.com/rss/articles/CBMiWkFVX3lxTE1RQjdsUHpyNUNrVlZtMVlZQzJzaXFKYVFqczZVXzJnekUzWlhaUS1xSDR1bl9tOHNzdjBEMXV0ZGVoX2dXWEs4VF9NWUxlU09uY1RvaFFDS2kwUQ?oc=5
+## 19. 【教員採用】新潟県、秋選考の実施要項公表…10/21出願締切 - リセマム
+媒体：リセマム　公開日：2026-10-07
+https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Gd1RmczFHUGFoRFkyOHh2N2JlOHFpSDA5M3pETjFsVEZhU1hlVnlaaHFOYVVpRHBZeFQyMDhoU0lUMWJZMmdmS3NPX3JSZ09QMWJBcTFQWjJEejRNUXZqc05BTUdLUQ?oc=5
 
-## 20. 教育・子育て施設を集約「こどもでぱーと」 都心の共働き家庭に支持 [東京都] - 朝日新聞
-媒体：朝日新聞　公開日：2026-10-03
-https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XbVBIb3lKTVA4bE9Ea1ZIc21nc050dWd5VDB6cWFzTWtIdXMwVzBONkc2NmRNdlFRdlZrUE1RLWxtUXZNVTByM01MVldvdEtha19kemo5dVc2Z3BkUUNNNWVBaUVENTQ?oc=5
+## 20. 「わいせつ被害にあった」と１１０番、直前にも別の女性が路上で胸を触られる…不同意わいせつ容疑で逮捕されたのは小学校教諭 - 読売新聞
+媒体：読売新聞　公開日：2026-10-07
+https://news.google.com/rss/articles/CBMickFVX3lxTE9Nc2VVLXktcFVHV25YZ3Y4R09RSGI5OUU0TUFJOGRWX3BwZFU4dktCSUlGTEI0bUNMUk45ckJhOXl4ZTdERUdEOGdPSmtjaElzTFFmUWNVNjI0NEN6Nzl5LWctQWlfRmV3SkFONW42a2xHZw?oc=5
 
-## 21. (2ページ目)水野美紀が語る子育て「優秀なママ友たちにびっくり！食事会の会計報告がエクセルで届きます」〈ミキティダイニング「水野美紀流絶品餃子」きょう〉 | AERA with Kids＋ - AERA DIGITAL
-媒体：朝日新聞　公開日：2026-10-03
-https://news.google.com/rss/articles/CBMiZkFVX3lxTE0waUhURm9tVGNmSEFkZUNKaGctQUJqTjA3Q1NRTlc2QnFTb3NlcFRraWJZY0pqbXFoSzBlTnFJU0lNbHZsWDE3dmR5RjJTRlhnMTFqeGhwZ0h4OUVTZTdGSXJvbEVKdw?oc=5
+## 21. 「見え方」を子どもと話さない 小中学生の保護者の4割 - 教育新聞
+媒体：教育新聞　公開日：2026-10-08
+https://news.google.com/rss/articles/CBMiVkFVX3lxTFBmY1R3QkFMTmR4dGJwTGgzN1plRm5aaC1pdk1wTFdxVnJxM3hiaXdzQmd3VklyR3luaU1OMWszUFFEYTNlVzdDczJKY3otdk9ielphQ2VR?oc=5
 
-## 22. 私立難関小の合格者は受験しない？ チャンスあふれる国立小の受験「なんとなく良さそう」だけで決めると入学後がしんどい - 朝日新聞
-媒体：朝日新聞　公開日：2026-10-02
-https://news.google.com/rss/articles/CBMiVkFVX3lxTE95dEFWV1pUTHc3NjhXT2RBdjl4VGJMUWZ1OFdwbWVKTWxndzR3Vnhjd2djcDN6WnZPeEU1bEwtR0Mzc0dtTUt1eS1yVWxLcEEyem9SUlpn?oc=5
+## 22. 様似中学校付近でクマの目撃情報 登下校は保護者送迎に - NHKニュース
+媒体：NHK　公開日：2026-10-08
+https://news.google.com/rss/articles/CBMiX0FVX3lxTE81ZkpMR0JidmlqVVYyeWpsZTI0MjdER2JDNHgwdENEM2pQSWtSb3R5dlRITmtGal9jS1N5eXpqUUtwNzk5VWtJWm9TaTlvV05vX1JubnhxV3lBOFFhLVpZ?oc=5
 
-## 23. 川田裕美が語る子育て「仕事量のセーブを決断するまで、1年かかりました」〈秘密のケンミンSHOW極「怒涛の大阪2時間SP」きょう〉 - AERA DIGITAL
-媒体：朝日新聞　公開日：2026-10-01
-https://news.google.com/rss/articles/CBMiZkFVX3lxTE11d1NmaE1UTDU2a1FnVXh3RnZ1dmE4STFwT1UtN25SUVFrWG1uUlBsaVg1cS1GanZEMVh3UHAxelJYQkxLNGZ3bk9qZEVuQUhvX0ZDdzRxT3hvRno1RmNTMVlMYlZ4UQ?oc=5
+## 23. 「子どもには親が芸人だと知られたくなかった」歌ネタ芸人AMEMIYA 考えを変えた妻の一言とは？〈ありえへん∞世界「埼玉人vs千葉人vs神奈川人」きょう〉 - AERA DIGITAL
+媒体：朝日新聞　公開日：2026-10-06
+https://news.google.com/rss/articles/CBMiZkFVX3lxTE11dlVVUG9TeWFzN25OSXVMQVVSeGYwcEIxVWdjR1Z5eEVYMmpSVWpybThVQnAxamhfYktNTGxtYnFjbVV6QjZRbGJlOTljRE1KamdHV2ZRcUxvcmpFSllxTlhVS04xUQ?oc=5
 
-## 24. 共同学校事務室取組事例集 - mext.go.jp
-媒体：文部科学省　公開日：2026-09-30
-https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Vcl95VndOcm1SMnhFa3hZN0E5MW1lXy1Ha3BZVTJnTlBIRmNuc2NSTldSZWhmOUhxdFlGak1uZkJQcHhzcmtKVmJpZEo5QS1xYnVTU1FYNlRmeVd3MmRuMw?oc=5
+## 24. (2ページ目)森三中・村上知子が語る、小6娘とけんかの日々…救ってくれた動画とは？「無意識に他の子と比べてしまっていて反省」〈ありえへん∞世界「埼玉人vs千葉人vs神奈川人」きょう〉 | AERA with Kids＋ - AERA DIGITAL
+媒体：朝日新聞　公開日：2026-10-06
+https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hM004TVNfbWNhQ1FwcE40bDNpQkctazVLRDBaVHQtbUR4RFZBeHBVWDZySmZieUw4RjJQU1F0cWxiNWVpd0h4ZEtOUVk2bHhSaEgyWWtwYjBCeWhlYVNoV1lhZmFOZw?oc=5
 
-## 25. 国の貸与奨学金、教員の返還免除を検討 文科省、なり手不足で - 朝日新聞
-媒体：朝日新聞　公開日：2026-09-28
-https://news.google.com/rss/articles/CBMiZEFVX3lxTE5zall3bG9fckdlWXJqazVfRVdaU1BiNkYzZzFrbEU1djhaQmdQcVZ0OVZHVldBbjFUa2NBSEs0SjdId3RBdjVQWUdnNGJ0UFVIYTRrNklvU2tFTTF2a1Z3ZFZLX0g?oc=5
+## 25. さよなら神扇池 閉校する小学校の児童が最後の釣り教室 埼玉・幸手 [埼玉県] - 朝日新聞
+媒体：朝日新聞　公開日：2026-10-08
+https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCdUprb3VhLTJTUGlpZ18yb2YwQVJqZUNKR09kRy04cnJHSXZyQmVBYi04amZ1b0FmOE1wZU8xY2V4ZjZhTFNfUTlPZ0I0Wk1Id2hXWGVucmxtcDgycWtNTVdxb25zMTA?oc=5
